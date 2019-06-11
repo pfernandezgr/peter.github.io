@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/index_cv.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="774">
-              <caret line="165" selection-start-line="165" selection-end-line="165" />
+              <caret line="285" column="34" lean-forward="true" selection-start-line="253" selection-start-column="28" selection-end-line="285" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -51,6 +51,7 @@
       <find>pete</find>
       <find>contact</find>
       <find>peter</find>
+      <find>graph</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -85,6 +86,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -116,12 +118,12 @@
       <workItem from="1559820124027" duration="25000" />
       <workItem from="1559849462796" duration="450000" />
       <workItem from="1560173623382" duration="622000" />
-      <workItem from="1560255990893" duration="62000" />
+      <workItem from="1560255990893" duration="537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6222000" />
+    <option name="totallyTimeSpent" value="6697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -155,7 +157,7 @@
     <entry file="file://$PROJECT_DIR$/index_cv.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
+          <caret line="285" column="34" lean-forward="true" selection-start-line="253" selection-start-column="28" selection-end-line="285" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
